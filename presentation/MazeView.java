@@ -11,10 +11,6 @@ import framework.*;
 
 public class MazeView extends View{
 
-	/**
-	 * 11/12: JL: Created all of MazeView
-	 * 11/13: RK: Replaced reshow() with an update()
-	 */
 private static final long serialVersionUID = 6L;
 	
 	public MazeView(Model maze) { 
