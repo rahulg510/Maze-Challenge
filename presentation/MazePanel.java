@@ -9,11 +9,6 @@ import javax.swing.*;
 import framework.*;
 import business.*;
 
-/**
- * Edit History
- * 11/12: JL: Implemented all of MazePanel
- * 11/12: RK: Modified update()
- */
 public class MazePanel extends AppPanel{
 
 	public JTextField exitDistanceField;
